@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Pages/AboutMe/aboutme.scss"],"names":[],"mappings":"AAAA,SAEI,cAAe,CACf,eAAgB,CACjB,gBAGC,iBAAkB,CAClB,eAAiB,CACjB,YAAa","file":"19.c6639a2f.chunk.css","sourcesContent":[".about {\n  p {\n    font-size: .8em;\n    margin-top: .5em;\n  }\n\n  &-emphasis {\n    font-style: italic;\n    font-weight: bold;\n    padding: .3em;\n  }\n\n}\n"]}
